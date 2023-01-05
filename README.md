@@ -1,4 +1,5 @@
-# eCommerce-machineTask
+# eCommerce-Sample
+
 
 ## Table of contents
 
